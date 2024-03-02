@@ -1,0 +1,2 @@
+# SimpleStar
+Not Galaxy Star
